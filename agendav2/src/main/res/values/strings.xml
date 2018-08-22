@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Agendav2</string>
+    <string name="agend">Agenda V2</string>
+    <string name="Ver">Ver Contactos</string>
+    <string name="reg">Registrar Contacto</string>
+    <string name="busc">Buscar Contacto</string>
+    <string name="elim">Eliminar Contacto</string>
+    <string name="cont">Contactos</string>
+    <string name="volver">Volver</string>
+    <string name="Nome">Nombre del contacto</string>
+    <string name="Nombre">Nombre</string>
+    <string name="pass">Cotraseña</string>
+    <string name="repass">Repetir Contraseña</string>
+    <string name="mascu">Masculino</string>
+    <string name="feme">Femenino</string>
+    <string name="dormir">Dormir</string>
+    <string name="cine">Cine</string>
+    <string name="leer">Leer</string>
+    <string name="ps4">PS4</string>
+    <string name="correo">Email</string>
+    <string name="nacimiento">Fecha de Nacimiento</string>
+    <string name="lugarn">Lugar de Nacimiento</string>
+</resources>

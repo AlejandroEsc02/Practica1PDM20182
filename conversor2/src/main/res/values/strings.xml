@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="titulo">Conversor</string>
+    <string name="con">Convertir desde:</string>
+    <string name="valord">Valor desde:</string>
+    <string name="valora">Convertir a:</string>
+    <string name="valordc">Valor a convertir: </string>
+    <string name="result">Resultado:</string>
+    <string name="conv">Convertir</string>
+    <string name="tit">Conversor de Monedas</string>
+    <string name="valo">Valor Ohmios:</string>
+    <string name="val">Valor:</string>
+</resources>

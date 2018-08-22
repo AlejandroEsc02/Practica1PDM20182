@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">agenda2</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="agenda">Agenda</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Ver">Ver</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Salir">Salir</string>
+    <string name="Nombre">Nombre</string>
+    <string name="guardar">Guardar</string>
+    <string name="pass">Contraseña</string>
+    <string name="repass">Repetir Contraseña</string>
+    <string name="data">Datos</string>
+    <string name="mascu">Masculino</string>
+    <string name="feme">Femenino</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="nacimiento">Fecha de Nacimiento</string>
+    <string name="lugarn">Lugar de Nacimiento</string>
+    <string name="ps4">PS4</string>
+    <string name="leer">Leer</string>
+    <string name="cine">Cine</string>
+    <string name="dormir">Dormir</string>
+    <string name="formu">Formulario</string>
+    <string name="Da">Datos:</string>
+    <string name="cont">Contacto</string>
+    <string name="volver">Volver</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Resistencia</string>
+    <string name="primerc">Primer Color</string>
+    <string name="segundc">Segundo Color</string>
+    <string name="tercerc">Tercer Color</string>
+    <string name="resul">Resultado:</string>
+</resources>

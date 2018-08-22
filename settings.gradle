@@ -1,0 +1,1 @@
+include ':app', ':conversor', ':conversor2', ':resistencia', ':agendav2', ':agendav3'
